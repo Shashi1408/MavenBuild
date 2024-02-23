@@ -3,9 +3,6 @@ package com.geekcap.vmturbo;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by shaines on 7/24/16.
- */
 public class ThingTest {
 
     @Test
